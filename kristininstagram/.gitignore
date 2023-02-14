@@ -1,8 +1,14 @@
-# gitignore
-__pycahe__
-db.splite3
-/static
-/media
-.idea
-.vscode
+### Django ###
+/**/*.log
+/**/*.pot
+/**/*.pyc
+/**/__pycache__/
+/**/migrations/
+db.sqlite3
+db.sqlite3-journal
+media
+static
+staticfiles
 .env
+.vscode
+.idea
