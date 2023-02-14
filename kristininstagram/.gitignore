@@ -1,0 +1,8 @@
+# gitignore
+__pycahe__
+db.splite3
+/static
+/media
+.idea
+.vscode
+.env
